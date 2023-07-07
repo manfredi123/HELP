@@ -1,0 +1,2 @@
+xampp --> database
+localost nella barra
