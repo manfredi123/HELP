@@ -1,2 +1,2 @@
 xampp --> database
-localost nella barra
+localost nella barra di ricerca
